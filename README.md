@@ -1,2 +1,1 @@
-# TinDog
-Web Dev practice site
+TinDog Starting Files
